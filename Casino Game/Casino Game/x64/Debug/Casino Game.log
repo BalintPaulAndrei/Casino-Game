@@ -1,0 +1,3 @@
+﻿  Casino Game.cpp
+D:\Projects\Rezumat Github\Casino Game\Casino Game\Casino Game.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Casino Game.vcxproj -> D:\Projects\Rezumat Github\Casino Game\x64\Debug\Casino Game.exe
